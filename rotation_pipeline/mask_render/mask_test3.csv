@@ -1,0 +1,2 @@
+scene_path,object_path,base_output_dir,gpu_index
+/gemini/platform/public/aigc/cv_banc/zhanghy56_intern/cjr/blender_cjr/blender/data/test_scene/indoor1.blend,/gemini/platform/public/aigc/cv_banc/zhanghy56_intern/cjr/blender_cjr/blender/data/models/sculpture6.blend,/gemini/platform/public/aigc/cv_banc/zhanghy56_intern/cjr/blender_cjr/blender/rotation_pipeline/outputs/sculpture6/output_indoor1_sculpture6,1

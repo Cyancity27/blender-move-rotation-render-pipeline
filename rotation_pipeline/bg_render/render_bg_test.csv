@@ -1,0 +1,3 @@
+scene_path,object_path,base_output_dir,gpu_index
+/gemini/platform/public/aigc/cv_banc/zhanghy56_intern/cjr/blender_cjr/blender/data/test_scene/outdoor16.blend,/gemini/platform/public/aigc/cv_banc/zhanghy56_intern/cjr/blender_cjr/blender/data/models/sculpture6.blend,/gemini/platform/public/aigc/cv_banc/zhanghy56_intern/cjr/blender_cjr/blender/outputs/sculpture6/output_outdoor16_sculpture6,1
+/gemini/platform/public/aigc/cv_banc/zhanghy56_intern/cjr/blender_cjr/blender/data/test_scene/outdoor17.blend,/gemini/platform/public/aigc/cv_banc/zhanghy56_intern/cjr/blender_cjr/blender/data/models/sculpture6.blend,/gemini/platform/public/aigc/cv_banc/zhanghy56_intern/cjr/blender_cjr/blender/outputs/sculpture6/output_outdoor17_sculpture6,2
