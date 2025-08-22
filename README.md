@@ -37,7 +37,7 @@
 ## 🗂️ Repository Structure Overview
 
 ```
-bash复制blender-move-rotation-render-pipeline/
+blender-move-rotation-render-pipeline/
 ├─ .gitattributes
 ├─ blender_pipeline/ # Translation Rendering Pipeline
 │ ├─ render_bg/
@@ -257,7 +257,7 @@ bash复制blender-move-rotation-render-pipeline/
    1. Translation (Indoor/Outdoor):
 
       ```
-      bash复制bash blender_pipeline/render_mask/render_indoor.sh
+      bash blender_pipeline/render_mask/render_indoor.sh
       bash blender_pipeline/render_mask/render_outdoor.sh
       ```
 
